@@ -1,0 +1,21 @@
+source_id,mensaje,canal
+0001,No puedo iniciar sesión en mi cuenta,web
+0002,Me cobraron dos veces con mi tarjeta,email
+0003,¿Dónde está mi paquete? El envío no llega,chat
+0004,La aplicación muestra un error al abrir,chat
+0005,Necesito una factura del pago,email
+0006,No puedo iniciar sesión en mi cuenta,web
+0007,Mi pedido figura entregado pero no lo recibí,chat
+0008,Hola,web
+0009,,email
+0010,Olvidé mi contraseña y no puedo acceder,web
+0011,La pantalla se bloquea luego de actualizar,chat
+0012,Quiero cambiar la dirección de entrega,email
+0013,Excelente atención y rapidez,web
+0014,"El cobro fue correcto, pero necesito cambiar el correo de cuenta",email
+0015,  ,chat
+0016,El pedido llegó a tiempo,chat
+0017,¿Cómo solicito un reembolso?,web
+0018,La página funciona lento y se cuelga,web
+0019,Necesito recuperar el acceso de usuario,email
+0020,No puedo iniciar sesión en mi cuenta,chat
